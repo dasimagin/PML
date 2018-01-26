@@ -1,2 +1,2 @@
-# PML
-Practical machine learning (open classes)
+# Practical machine learning (open classes)
+
